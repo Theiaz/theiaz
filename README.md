@@ -4,8 +4,8 @@ I'm a full stack developer with a passion for web development, good user experie
 
 🔭 I’m currently working on
   - writing a series of articles about rendering patterns on the web for a german print magazine
-    - first part is about common patterns like static, serverside or clientside rendering: [Das Spektrum der Rendering Patterns](https://entwickler.de/webentwicklung/rendering-patterns-webentwicklung)
-    - second part is about more complex patterns like ISR, prerender and different hydration solutions: [Ein breiteres Spektrum – komplexe Rendering Patterns](https://entwickler.de/webentwicklung/hydration-island-rendering-patterns)
+    - first part ([Das Spektrum der Rendering Patterns](https://entwickler.de/webentwicklung/rendering-patterns-webentwicklung)) is about common patterns like static, serverside or clientside rendering 
+    - second part ([Ein breiteres Spektrum – komplexe Rendering Patterns](https://entwickler.de/webentwicklung/hydration-island-rendering-patterns)) is about more complex patterns like incremental static regeneration, prerendering and different hydration solutions
   - improving my blog
 
 📫 You can contact me via 🐦[@ju_schaefer](https://twitter.com/ju_schaefer) 
