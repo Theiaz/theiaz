@@ -8,5 +8,9 @@ I'm a full stack developer with a passion for web development, good user experie
     - second part ([Ein breiteres Spektrum – komplexe Rendering Patterns](https://entwickler.de/webentwicklung/hydration-island-rendering-patterns)) is about more complex patterns like incremental static regeneration, prerendering and different hydration solutions
   - improving my blog
 
+✍️ Other work:
+- an blog post about [remote event storming](https://synyx.de/blog/remote-event-storming-takeaways/)
+- have a look at my [dev.to](https://dev.to/theiaz) profile to see some more articles 
+
 📫 You can contact me via 🐦[@ju_schaefer](https://twitter.com/ju_schaefer) 
 
