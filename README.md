@@ -7,7 +7,7 @@ I'm a full stack developer with a passion for web development, good user experie
   - learning new things
 
 ✍️ What I've done so far
-- wrote a series of articles about rendering patterns on the web for a german print magazine
+- wrote a series of articles about rendering patterns on the web for a [german print magazine](https://entwickler.de/experten/julian-schaefer)
     - first part ([Das Spektrum der Rendering Patterns](https://entwickler.de/webentwicklung/rendering-patterns-webentwicklung)) is about common patterns like static, serverside or clientside rendering 
     - second part ([Ein breiteres Spektrum – komplexe Rendering Patterns](https://entwickler.de/webentwicklung/hydration-island-rendering-patterns)) is about more complex patterns like incremental static regeneration, prerendering and different hydration solutions
     - last part ([Zurück zum Server – den Sweet Spot finden](https://entwickler.de/javascript/server-rendering-patterns)) is about html streaming, react server components and resumability
