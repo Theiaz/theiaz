@@ -3,7 +3,7 @@
 I'm a full stack developer with a passion for web development, good user experience and domain driven design.
 
 ## 🧐 I’m currently working on
-  - improving my blog and a little app
+  - improving my [blog](https://jschaefer.dev/) and a little app
   - learning new things
 
 ---
