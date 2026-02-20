@@ -14,5 +14,5 @@ I'm a full stack developer with a passion for web development, good user experie
 
 ---
 
-📫 You can contact me via Bluesky [@jschaeferdev.bsky.social](https://bsky.app/profile/jschaeferdev.bsky.social) or [LinkedIn](linkedin.com/in/julian-schäfer-72623a152)
+📫 You can contact me via Bluesky [@jschaeferdev.bsky.social](https://bsky.app/profile/jschaeferdev.bsky.social) or [LinkedIn](https://linkedin.com/in/julian-schäfer-72623a152)
 
