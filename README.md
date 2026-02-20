@@ -2,12 +2,6 @@
 
 I'm a full stack developer with a passion for web development, good user experience and domain driven design.
 
-## 🧐 I’m currently working on
-  - improving my [blog](https://jschaefer.dev/) and a [progressive web app](https://github.com/Theiaz/clickncook-supabase)
-  - learning new things
-
----
-
 ## ✍️ What I've done so far
 - wrote a series of articles about rendering patterns on the web for a [german print magazine](https://entwickler.de/experten/julian-schaefer) ![entwickler_magazine](https://github.com/Theiaz/theiaz/assets/9378662/6737ed7d-eb0f-4b43-b881-c79341c8eaa5)
     - 1️⃣ [Das Spektrum der Rendering Patterns](https://entwickler.de/webentwicklung/rendering-patterns-webentwicklung) is about common patterns like static, serverside or clientside rendering 
@@ -18,5 +12,5 @@ I'm a full stack developer with a passion for web development, good user experie
 
 ---
 
-📫 You can contact me via 🐦[@ju_schaefer](https://twitter.com/ju_schaefer) 
+📫 You can contact me via Bluesky [@jschaeferdev.bsky.social](https://bsky.app/profile/jschaeferdev.bsky.social) or [LinkedIn](linkedin.com/in/julian-schäfer-72623a152)
 
